@@ -1,0 +1,6 @@
+2025-04-04 12:42:22.017485 - Received CBT.V508.FILE613.PDS from FILE613.XMI 
+2025-04-04 12:42:22.018160 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE613.PDS, moved to PDS/$$$#DATE
+2025-04-04 12:42:22.018330 - Found $$NOTE1.eml (message/rfc822) in CBT.V508.FILE613.PDS, moved to PDS/$$NOTE1
+2025-04-04 12:42:22.018488 - Found $$NOTE2.eml (message/rfc822) in CBT.V508.FILE613.PDS, moved to PDS/$$NOTE2
+2025-04-04 12:42:22.018634 - Found @FILE613.txt (text/plain) in CBT.V508.FILE613.PDS, moved to PDS/@FILE613
+2025-04-04 12:42:22.018766 - Found RESQJCL.jcl (text/plain) in CBT.V508.FILE613.PDS, moved to PDS/RESQJCL
